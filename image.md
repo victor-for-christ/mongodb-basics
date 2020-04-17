@@ -16,8 +16,20 @@
 
 ---
 
-#### Create a collection called "interns
+#### 2b. All movies with a rating of 7
 
-###### Kindly check the terminal
+![Third task a](https://github.com/victor-for-christ/mongodb-basics/blob/crud-basics/images_2/04.png?raw=true)
+![Third task b](https://github.com/victor-for-christ/mongodb-basics/blob/crud-basics/images_2/05.png?raw=true)
+![Third task c](https://github.com/victor-for-christ/mongodb-basics/blob/crud-basics/images_2/06.png?raw=true)
+![Third task d](https://github.com/victor-for-christ/mongodb-basics/blob/crud-basics/images_2/07.png?raw=true)
+![Third task e](https://github.com/victor-for-christ/mongodb-basics/blob/crud-basics/images_2/08.png?raw=true)
+![Third task f](https://github.com/victor-for-christ/mongodb-basics/blob/crud-basics/images_2/09.png?raw=true)
+![Third task g](https://github.com/victor-for-christ/mongodb-basics/blob/crud-basics/images_2/10.png?raw=true)
 
-![Third task](https://raw.githubusercontent.com/victorpro4C/mongodb-basics/master/images/03.png)
+#### 2c. With the use of a projection object to return only movie titles and nothing else
+
+![Third task h](https://github.com/victor-for-christ/mongodb-basics/blob/crud-basics/images_2/11.png?raw=true)
+
+#### 3. The updated collection
+
+![Four task](https://github.com/victor-for-christ/mongodb-basics/blob/crud-basics/images_2/12.png?raw=true)
